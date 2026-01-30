@@ -1,0 +1,131 @@
+Bank Network Simulation using Cisco Packet Tracer
+📌 Project Overview
+
+This project demonstrates a Bank Network Infrastructure designed and simulated using Cisco Packet Tracer. The aim of this project is to design a secure, scalable, and efficient network architecture for a banking environment, including multiple departments, servers, and end devices.
+
+The simulation focuses on basic networking concepts such as:
+
+IP addressing
+
+Routing and switching
+
+VLANs
+
+Server communication
+
+End-to-end connectivity testing
+
+🛠 Tools & Technologies Used
+
+Cisco Packet Tracer (version 8.0 or above recommended)
+
+Networking devices:
+
+Routers
+
+Switches
+
+PCs
+
+Servers
+
+📂 File Details
+File Name	Description
+bankknet.pkt	Main Packet Tracer simulation file
+🏗 Network Architecture
+
+The network represents a bank system with the following components:
+
+1. Departments
+
+Accounts Department
+
+Manager Section
+
+Customer Service
+
+IT/Admin
+
+2. Devices
+
+Multiple PCs for staff
+
+Central servers
+
+Core router and access switches
+
+3. Features Implemented
+
+Static IP addressing
+
+Logical topology design
+
+LAN connectivity
+
+Inter-department communication
+
+⚙ How to Run the Project
+
+Download and install Cisco Packet Tracer.
+
+Clone this repository or download the ZIP.
+
+Open bankknet.pkt using Packet Tracer.
+
+Switch to Simulation Mode to see packet flow.
+
+Test connectivity using:
+
+ping
+
+simple PDU
+
+🔍 Testing & Verification
+
+You can verify:
+
+PC to PC communication
+
+PC to Server communication
+
+Router interface status
+
+IP configuration of all nodes
+
+🎯 Learning Outcomes
+
+By completing this project, you will understand:
+
+Basic enterprise network design
+
+Practical use of routers and switches
+
+IP addressing and subnetting
+
+Network troubleshooting
+
+Simulation of real-world banking networks
+
+🚀 Future Enhancements
+
+Possible improvements:
+
+Add VLAN segmentation
+
+Implement DHCP
+
+Configure firewall rules
+
+Add wireless access points
+
+Apply network security policies
+
+👨‍💻 Author
+
+Jegadheesh
+Student – Networking / Computer Science
+
+📜 License
+
+This project is for educational purposes only.
+Free to use and modify for learning and academic projects.
